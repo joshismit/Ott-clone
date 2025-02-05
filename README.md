@@ -1,4 +1,4 @@
-Access the website here: https://ott-clone.scambulls.com/login
+Access the website here: https://ott-clone.scambulls.com/
 
 # React + Vite
 
