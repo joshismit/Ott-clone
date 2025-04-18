@@ -1,4 +1,4 @@
-Live link: https://ott-demo-test1.netlify.app/login
+Live link: https://ott-demo-by-smit.netlify.app/
 
 # React + Vite
 
